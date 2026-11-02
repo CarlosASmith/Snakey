@@ -1,0 +1,6 @@
+{
+  "name": "CyberViper: Grid Hunter",
+  "description": "Fast-paced mobile arcade game. Beat the cyber-snake to the treasures and blast its segments to climb the global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "seed-1",
+    "name": "CyberPhantom_99",
+    "score": 14850,
+    "level": 7,
+    "treasuresCollected": 48,
+    "segmentsDestroyed": 24,
+    "timeElapsed": 285,
+    "country": "JP",
+    "createdAt": "2026-11-01T23:40:40.339Z"
+  },
+  {
+    "id": "seed-2",
+    "name": "ViperSniper_X",
+    "score": 12400,
+    "level": 6,
+    "treasuresCollected": 42,
+    "segmentsDestroyed": 21,
+    "timeElapsed": 240,
+    "country": "US",
+    "createdAt": "2026-11-01T20:40:40.340Z"
+  },
+  {
+    "id": "seed-3",
+    "name": "NeonStride",
+    "score": 10920,
+    "level": 5,
+    "treasuresCollected": 36,
+    "segmentsDestroyed": 18,
+    "timeElapsed": 210,
+    "country": "DE",
+    "createdAt": "2026-11-01T17:40:40.340Z"
+  },
+  {
+    "id": "seed-4",
+    "name": "Kira_Grid",
+    "score": 9350,
+    "level": 5,
+    "treasuresCollected": 31,
+    "segmentsDestroyed": 17,
+    "timeElapsed": 195,
+    "country": "KR",
+    "createdAt": "2026-11-01T13:40:40.340Z"
+  },
+  {
+    "id": "seed-5",
+    "name": "SolarPulse",
+    "score": 8100,
+    "level": 4,
+    "treasuresCollected": 27,
+    "segmentsDestroyed": 14,
+    "timeElapsed": 160,
+    "country": "CA",
+    "createdAt": "2026-11-01T01:40:40.340Z"
+  },
+  {
+    "id": "seed-6",
+    "name": "ApexRunner",
+    "score": 6850,
+    "level": 4,
+    "treasuresCollected": 23,
+    "segmentsDestroyed": 13,
+    "timeElapsed": 142,
+    "country": "BR",
+    "createdAt": "2026-10-31T13:40:40.340Z"
+  },
+  {
+    "id": "entry-1793583645267-4e665",
+    "name": "TestRunner",
+    "score": 5500,
+    "level": 3,
+    "treasuresCollected": 14,
+    "segmentsDestroyed": 9,
+    "timeElapsed": 100,
+    "country": "US",
+    "createdAt": "2026-11-02T01:40:45.267Z"
+  },
+  {
+    "id": "seed-7",
+    "name": "ByteChaser",
+    "score": 5400,
+    "level": 3,
+    "treasuresCollected": 19,
+    "segmentsDestroyed": 10,
+    "timeElapsed": 118,
+    "country": "GB",
+    "createdAt": "2026-10-31T01:40:40.340Z"
+  },
+  {
+    "id": "seed-8",
+    "name": "GlitchBreaker",
+    "score": 4200,
+    "level": 3,
+    "treasuresCollected": 15,
+    "segmentsDestroyed": 8,
+    "timeElapsed": 95,
+    "country": "FR",
+    "createdAt": "2026-10-30T13:40:40.340Z"
+  },
+  {
+    "id": "seed-9",
+    "name": "NovaStrike",
+    "score": 3150,
+    "level": 2,
+    "treasuresCollected": 11,
+    "segmentsDestroyed": 6,
+    "timeElapsed": 72,
+    "country": "AU",
+    "createdAt": "2026-10-30T01:40:40.340Z"
+  },
+  {
+    "id": "seed-10",
+    "name": "EchoRider",
+    "score": 2200,
+    "level": 2,
+    "treasuresCollected": 8,
+    "segmentsDestroyed": 5,
+    "timeElapsed": 54,
+    "country": "SE",
+    "createdAt": "2026-10-29T01:40:40.340Z"
+  }
+]
